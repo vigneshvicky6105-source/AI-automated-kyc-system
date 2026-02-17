@@ -121,4 +121,5 @@ if id_file and live_image:
                 os.remove(id_path)
             if os.path.exists(live_path):
                 os.remove(live_path)
-#thsi comment is been given just to check the update of the git hub thing
+#this comment is been given just to check the update of the git hub thing
+#and guess what it wooooooorked !!!!!!!!!
