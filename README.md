@@ -8,7 +8,7 @@ Built using DeepFace (VGG-Face model) for deep learning-based face verification 
 
 🚀 Features
 
-📄 Upload ID card image (PAN / Aadhaar format)
+📄 Upload ID card image (PAN / Aadhaar format / Passport Size photo)
 
 📷 Capture live image using camera
 
